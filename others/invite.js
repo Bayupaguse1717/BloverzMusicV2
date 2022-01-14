@@ -12,7 +12,7 @@ module.exports = {
       .setColor("#F0EAD6")
       .setAuthor('Bayupaguse','https://cdn.discordapp.com/attachments/778600026280558617/781024479623118878/ezgif.com-gif-maker_1.gif')
       .setThumbnail(message.guild.iconURL())
-      .addField(`Use the following link to add Harmony to your discord server`, 'https://discord.com/api/oauth2/authorize?client_id=922956820891459585&permissions=8&scope=bot', true)
+      .addField(`Use the following link to add BloverzMusic to your discord server`, 'https://discord.com/api/oauth2/authorize?client_id=922956820891459585&permissions=8&scope=bot', true)
 
     inviteEmbed.setTimestamp();
 
