@@ -1,12 +1,12 @@
 {
-  "name": "MBWF-v2",
+  "name": "BloverzMusic",
   "version": "1.0.0",
-  "description": "Music bot with filters-v2",
+  "description": "Bayupaguse Is Author Source Code Subscribe My Channel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Navaneeth K M",
+  "author": "Bayupaguse",
   "license": "GPL-3.0",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
